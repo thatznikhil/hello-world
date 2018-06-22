@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This year's 1st repository
